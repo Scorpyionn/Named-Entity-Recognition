@@ -1,0 +1,1 @@
+A collection of Natural Language Processing (NLP) experiments using Python, NLTK, Scikit-learn and spaCy. Includes text preprocessing, Bag-of-Words, N-Gram models, Morphological Analysis, POS Tagging and Named Entity Recognition with practical implementations and visualizations.
